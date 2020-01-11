@@ -1,5 +1,5 @@
 # PercentageIncrease
-<img src="https://raw.githubusercontent.com/AlexPerathoner/PercentageIncrease/master/Resources/PercentageIncreaseIcon.png" align="right"
+<img src="https://github.com/AlexPerathoner/PercentageIncrease/blob/master/Resources/PercentageIncreaseIcon.png?raw=true" align="right"
      title="PercentageIncrease by Alexander Perathoner" width="100" height="100">
 A handy Command Line App to quickly calculate the increase (or decrease) from a starting to a final value.
 
@@ -29,7 +29,7 @@ You have two ways to calculate the increase in percentage using **PercentageIncr
 	Type ```% ``` or ```increase ``` followed by the starting and the final values.
 	
 	Example: ```% 2 3``` returns: ```Increase of: 50.0%```
-	![ExampleImage](https://github.com/AlexPerathoner/PercentageIncrease/blob/master/Resources/Screen1.?raw=true)
+	![ExampleImage](https://github.com/AlexPerathoner/PercentageIncrease/blob/master/Resources/Screen1.png?raw=true)
 * **Without parameters**
 
 	Type ```%``` or ```increase ``` and press enter. You will now prompted to insert the starting and the final values.
@@ -37,7 +37,7 @@ You have two ways to calculate the increase in percentage using **PercentageIncr
 	Insert one after the other the two values the two values and press enter.
 	
 	Example:
-	![ExampleImage](https://github.com/AlexPerathoner/PercentageIncrease/blob/master/Resources/Screen2.?raw=true)
+	![ExampleImage](https://github.com/AlexPerathoner/PercentageIncrease/blob/master/Resources/Screen2.png?raw=true)
 
 
 

@@ -47,8 +47,3 @@ You have two ways to calculate the increase in percentage using **PercentageIncr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
----
-Donations are welcome!
-
-[![Donate-Paypal](https://img.shields.io/badge/donate-paypal-yellow.svg?style=flat)](https://paypal.me/AlexanderPerathoner)
